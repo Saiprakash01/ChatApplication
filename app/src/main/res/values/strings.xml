@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_to_chats_fragment">Welcome To Chats Fragment</string>
+    <string name="welcome_to_users_fragment">Welcome To Users Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
